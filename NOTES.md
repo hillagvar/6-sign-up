@@ -9,7 +9,7 @@
    - skirta aprasyti kas, ka ir kodel daro
    - iterpti link i daroma dizaina
    - iterpti link, kur galima pamatyti koda
-- [ ] atlikti dizano analize
+- [x] atlikti dizano analize
 - [ ] surasyti html
 - [ ] issikirpti img ir juos panaudoti
    - panaudoti reliatyvu kelia
