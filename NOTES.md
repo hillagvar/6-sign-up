@@ -4,6 +4,11 @@
    - index.html
    - .gitignore
    - main.css (bet ne butinai vienintelis)
+- [x] paviesinti projekta per Github Pages (bus url)
+- [x] README.md 
+   - skirta aprasyti kas, ka ir kodel daro
+   - iterpti link i daroma dizaina
+   - iterpti link, kur galima pamatyti koda
 - [ ] atlikti dizano analize
 - [ ] surasyti html
 - [ ] issikirpti img ir juos panaudoti
@@ -11,11 +16,6 @@
 - [ ] aprasyti stiliu
    - turinys turi buti centre (horizontaliai ir vertikaliai)
    - pagrindinis plotis turi buti fiksuotas
-- [ ] README.md 
-   - skirta aprasyti kas, ka ir kodel daro
-   - iterpti link i daroma dizaina
-   - iterpti link, kur galima pamatyti koda
-- [ ] paviesinti projekta per Github Pages (bus url)
 - [ ] atskiri puslapiai, kurie naviguoja ratu
    - sign up
    - sign in
