@@ -1,3 +1,11 @@
+body,
+body * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
 body {
     background-color: #008fae;
 }
@@ -14,8 +22,6 @@ body {
     width: 40%;
     float: left;
     background-color: gold;
-
-
 }
 
 .main-title {
@@ -42,8 +48,7 @@ body {
     width: 60%;
     float: left;
     background-color:hotpink;
-
-
+    padding: 60px;
 }
 
 .close {
