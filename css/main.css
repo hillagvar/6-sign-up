@@ -14,8 +14,7 @@ body {
 .container {
     display: inline-block;
     width: 800px;
-    margin-top: 100px;
-    margin-left: calc(50% - 400px);
+    margin: 100px calc(50% - 400px) 0;
 }
 
 .left-column {
@@ -96,17 +95,30 @@ input {
 
 
 button {
-
-
+    float: left;
+    background-color: #0164db;
+    color: white;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 10px 40px;
+    border-radius: 21px;
+    border: 1px solid #0554b4;
 }
 
 
 .form-row > span {
+    float: left;
+    line-height: 20px;
+    padding: 11px;
 
 }
 
 
 .form-row > a {
+    float: left;
+    text-decoration: none;
+    padding: 11px;
+    line-height: 20px;
 
 }
 
