@@ -51,9 +51,19 @@ body {
     float: left;
     background-color: white;
     padding: 60px;
+    position: relative;
 }
 
 .close {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: center;
+    font-size: 30px;
+    line-height: 55px;
 }
 
 

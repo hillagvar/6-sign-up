@@ -21,3 +21,12 @@
    - sign in
    - forgot password
 - [ ] css turi buti tik vienas failas, kur stiliaus taisykles veikia vienodai visuose puslapiuose   
+
+# Pozicionavimas
+
+1. vaikui duodam position: absolute;
+2. artimiausiam logiskam tevui (kuri norim tureti kaip atskaitos taska) duodam:
+    a) position: relative, jeigu tas elementas neturi kitokiu position savybiu
+    b) paliem tokia position savybe, kokia tas elementas turi,jei nurodyta
+
+Isvada: absoliuciai pozicionuojamas elementas bus pastatytas artimiausio NE position: static elemento atzvilgiu. 
