@@ -21,8 +21,13 @@ body {
     width: 40%;
     float: left;
     padding: 40px;
-    background-color: rgb(76, 55, 150);
     color: white;
+    margin-top: 20px;
+    background-color: rgb(76, 55, 150);
+    background-image: url(../img/hill.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .main-title {
@@ -31,18 +36,14 @@ body {
 }
 
 .bottom-links {
-
+    margin-top: 200px;
 }
 
 .bottom-links > a {
     color: white;
-
-
 }
 
 .bottom-links > span {
-
-
 }
 
 .right-column {
@@ -53,8 +54,6 @@ body {
 }
 
 .close {
-
-
 }
 
 
@@ -110,7 +109,6 @@ button {
     float: left;
     line-height: 20px;
     padding: 11px;
-
 }
 
 
@@ -119,7 +117,6 @@ button {
     text-decoration: none;
     padding: 11px;
     line-height: 20px;
-
 }
 
 
